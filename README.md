@@ -1,4 +1,4 @@
-# Burp Suite Traffic to Elasticsearch Importer
+# Elasticsearch-Logger 将ES流量导入burpsite
 
 ## 功能概述 / Feature Overview
 
