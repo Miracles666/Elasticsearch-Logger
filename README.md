@@ -1,4 +1,4 @@
-# Elasticsearch-Logger 将ES流量导入burpsite
+# Elasticsearch-Logger 将burpsite流量导入ES中
 
 ## 功能概述 / Feature Overview
 
