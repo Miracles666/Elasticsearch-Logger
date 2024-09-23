@@ -42,5 +42,4 @@ This tool imports Burp Suite traffic into Elasticsearch, supporting whitelist fi
 - 定期检查 Elasticsearch 以确保数据正确导入
 
 - Ensure that the Elasticsearch server is running and accessible
-- Importing large amounts of data may take some time, please be patient
 - Regularly check Elasticsearch to ensure data is being imported correctly
